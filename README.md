@@ -31,14 +31,6 @@ python app.py
 
 4. Open your browser and navigate to `http://localhost:5000`
 
-## Project Structure
-
-- `index.html` - Main dashboard interface
-- `style.css` - Styling and layout
-- `app.js` - Interactive features and data visualization
-- `malaria_blood_analysis.csv` - Dataset for malaria and blood group analysis
-- `evolution_simulation.csv` - Dataset for evolutionary simulation
-- `allele_frequencies.csv` - Dataset for allele frequency analysis
 
 ## Technologies Used
 
@@ -51,9 +43,4 @@ python app.py
 ## Data Sources
 
 - Malaria prevalence data (2000-2024)
-- ABO blood group distribution data
-- State-wise demographic data
-
-## License
-
-[Your chosen license] 
+- ABO blood group distribution data state-wise
