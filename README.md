@@ -15,7 +15,7 @@ An interactive dashboard exploring the evolutionary relationship between malaria
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/anvitha234/MM-EL-Dashboard
 cd MM_EL_Dashboard
 ```
 
