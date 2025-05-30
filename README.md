@@ -32,14 +32,6 @@ python app.py
 4. Open your browser and navigate to `http://localhost:5000`
 
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Chart.js for visualizations
-- Flask (Python web framework)
-
 ## Data Sources
 
 - Malaria prevalence data (2000-2024)
