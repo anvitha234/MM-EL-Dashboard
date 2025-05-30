@@ -1,0 +1,10 @@
+# Web server requirements
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Optional: For development
+python-dotenv==1.0.0 
